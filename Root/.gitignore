@@ -15,7 +15,7 @@
 .cxx
 
 # API Keys and Secrets
-#keys.properties
+keys.properties
 local.properties
 
 
